@@ -1,1 +1,1 @@
-Projetos de estudo envolvendo springboot com integrações com AWS e container
+Projetos de estudo envolvendo springboot com integrações com AWS e Docker Container
