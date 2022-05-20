@@ -1,1 +1,1 @@
-importante ressaltar, nem tudo é cabivel aqui, somente um teste de commit com o travis ci
+importante ressaltar, nem tudo é cabivel aqui, somente um teste de commit com o travis CLI
